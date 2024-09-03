@@ -30,3 +30,4 @@ popcornMeter =  rotenTomatoSoup.find("rt-button", {"slot" : "audienceScore"}).fi
 print(imdbScore)
 print(criticsScore)
 print(popcornMeter)
+
